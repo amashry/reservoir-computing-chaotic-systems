@@ -24,7 +24,7 @@ The project code is divided into separate modules for the Lorenz (`lorenz.jl`) a
 - Calculates and plots error metrics between the predicted and actual data.
 - Creates 2D and 3D visualizations of the predicted vs. actual behavior of the system.
 
-The `main.jl` script serves as the entry point for executing these modules.
+The `main.jl` script serves as the entry point for executing these modules. User can choose which chaotic system to train the ESN on, and predict its next state over time. 
 
 ### 2. Report
 
@@ -33,7 +33,7 @@ The report is a thorough examination of Reservoir Computing and its application 
 Key sections include:
 
 - An introduction detailing the challenge of predicting chaotic systems and the role of ESNs in Reservoir Computing.
-- A comprehensive mathematical description of Reservoir Computing.
+- A comprehensive mathematical description of Reservoir Computing. 
 - An in-depth analysis of Echo State Networks and their parameters.
 - A discussion on the relationship between ESNs and chaos theory, including practical examples.
 - An examination of the Lorenz and Rossler attractors.

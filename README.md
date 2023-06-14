@@ -45,7 +45,7 @@ To run the project, clone this repository, navigate to its directory, and execut
 
 ```bash
 git clone <https://github.com/amashry/reservoir-computing-chaotic-systems>
-cd <julia_simulations>
+cd <reservoir-computing-chaotic-systems>
 julia main.jl
 ```
 
@@ -59,7 +59,7 @@ Pkg.add("ReservoirComputing")
 Pkg.add("Random")
 ```
 
-The report can be found in the repository as a `.pdf` file.
+The report can be found in the repository as a `.pdf` file under docs directory.
 
 ## Dependencies
 

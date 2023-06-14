@@ -1,5 +1,5 @@
-include("rossler.jl")
-include("lorenz.jl")
+include("src/rossler.jl")
+include("src/lorenz.jl")
 
 # Access the exported functions from the modules
 using .Rossler

@@ -1,4 +1,4 @@
-# Reservoir Computing for Chaotic Systems Prediction
+# Reservoir Computing for Chaotic Systems Predictions
 
 This repository contains an implementation of reservoir computing, with a focus on Echo State Networks (ESN), for predicting chaotic systems. The project includes two primary examples: the Lorenz Attractor and the Rossler Attractor, which are sets of differential equations whose solutions exhibit chaotic behavior. The code is developed using the Julia language, leveraging packages such as Plots, OrdinaryDiffEq, and ReservoirComputing.
 

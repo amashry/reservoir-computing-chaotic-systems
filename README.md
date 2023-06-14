@@ -37,7 +37,6 @@ Key sections include:
 - An in-depth analysis of Echo State Networks and their parameters.
 - A discussion on the relationship between ESNs and chaos theory, including practical examples.
 - An examination of the Lorenz and Rossler attractors.
-- A detailed walkthrough of the provided code and its outputs.
 
 ## Getting Started
 
